@@ -1,0 +1,7 @@
+.mainbody li {
+  display: inline-block;
+}
+
+.mainbody .row-line {
+  display: block;
+}
